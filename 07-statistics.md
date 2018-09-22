@@ -89,8 +89,8 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 <center>
   
 p(H)  |     p(D\|H)    |     p(H)p(D\|H)    |                  p(H\|D)       |    |
----------|---------------|:-----------------:|----------------------|-----:|
-Prior|Likelihood|Normalization|   Post   |      |
+---------|---------------|-----------------|----------------------|-----|
+Prior|Likelihood|Normalization|Post||
 1/125  |       1       |       1/125       | (1/125)/(1/125+1/300)| \= 0.706 ID    |
 1/300  |       1       |       1/300       | (1/300)/(1/125+1/300)|  \= 0.294 FRAT |    
 
