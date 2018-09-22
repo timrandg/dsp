@@ -97,7 +97,7 @@ Prior|Likelihood|Normalization|Post||
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> ???Hard question to answer...This is going to be a tautology (sorry). Bayesian statistics uses Bayes theorem and caclulates probabilities using Prior, Likelihood, Normalization, and Posterior [ p(H), p(D|H), p(H)p(D|H), p(H|D) ]. And frequentists don't use Bayes theorem. Both are trying to quantify the outcome of future events. 
 
 ---
 
